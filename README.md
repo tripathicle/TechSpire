@@ -1,5 +1,5 @@
 # TechSpire
-This project is built using Terraform to provision and manage Azure infrastructure following a clean, modular structure. The modules are designed for reusability, scalability, and ease of maintenance, adhering to best practices in Infrastructure as Code (IaC).
+A monolithic Techspire application (frontend, backend, and database) with a one-click Terraform setup for Azure. Provisions all required resources including Resource Group, VNet, Subnet, VM, Public IP, NSG, NIC, Key Vault, SQL Server, and SQL Database.
 
 # 🚀 TechSpire - Infra Setup
 
